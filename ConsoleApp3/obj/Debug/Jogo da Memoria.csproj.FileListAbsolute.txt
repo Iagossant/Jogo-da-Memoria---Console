@@ -1,0 +1,7 @@
+\\INFO\Informática\Turma 09\Iago\Jogos\Jogo da Memoria - Console\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+\\INFO\Informática\Turma 09\Iago\Jogos\Jogo da Memoria - Console\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+\\INFO\Informática\Turma 09\Iago\Jogos\Jogo da Memoria - Console\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+\\INFO\Informática\Turma 09\Iago\Jogos\Jogo da Memoria - Console\ConsoleApp3\obj\Debug\Jogo da Memoria.csproj.AssemblyReference.cache
+\\INFO\Informática\Turma 09\Iago\Jogos\Jogo da Memoria - Console\ConsoleApp3\obj\Debug\Jogo da Memoria.csproj.CoreCompileInputs.cache
+\\INFO\Informática\Turma 09\Iago\Jogos\Jogo da Memoria - Console\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+\\INFO\Informática\Turma 09\Iago\Jogos\Jogo da Memoria - Console\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
